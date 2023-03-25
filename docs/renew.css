@@ -117,7 +117,7 @@ h2 {
 	padding: 0;
 	border-width: 0;
 
-    max-width: 234px;
+    max-width: 200px;
     height: auto;
 }
 
@@ -127,7 +127,7 @@ h2 {
 }
 
 .info-img {
-    max-width: 450px;
+    max-width: 400px;
     height:auto;
     margin-bottom: 10px
 }
@@ -278,8 +278,8 @@ li{
     display: inline-block;
     justify-content:center;
     margin: 0 auto;
-    width: 80px;
-    padding: 0px 25px;
+    width: 65px;
+    padding: 0px 15px;
     color: #313131;
     transition: 0.3s ease-in-out;
     font-weight: 500;
