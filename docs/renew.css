@@ -270,7 +270,7 @@ li{
     font-size:12px;  
 }
 
-.button a {
+.button b {
     background: #eee;
     border-radius: 3px;
     text-align: center;
@@ -286,7 +286,7 @@ li{
 }
 
 
-.button a:hover {
+.button b:hover {
   background: #6bb6ff;
   color: #FFF;
 }
