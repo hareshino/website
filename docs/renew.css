@@ -175,7 +175,7 @@ label {
 }
 
 .discg{
-
+	text-align: center;
 	margin: 0 auto;
 	padding: 0 10px;
     max-width: 960px;
@@ -269,6 +269,9 @@ li{
     padding: 1px 3px;
     font-size:12px;  
 }
+
+.button{
+    color: #006400;
 
 .button b {
     background: #eee;
